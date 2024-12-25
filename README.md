@@ -28,6 +28,8 @@ These systems recommend items based on overall popularity. For instance, they su
 **Strength**: Simple and effective when personalization is not needed.
 
 **Limitation**: Lacks personalization and might not cater to individual preferences.
+![image](https://github.com/user-attachments/assets/43f40591-2523-4f6e-b2d3-252745df99f4)
+
 
 ## Key Challenges
 
